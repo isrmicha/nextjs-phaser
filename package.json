@@ -1,7 +1,7 @@
 {
-  "name": "passive-heroes",
+  "name": "NextJs Phaser Starter Template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
